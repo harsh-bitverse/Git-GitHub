@@ -12,5 +12,6 @@ Website that allows to make changes using git
 # Other commands:
 + clone: git clone "Prefer HTTPS link"
 + status: git status
-+ add: git add file name
++ add: git add file.name (to stage)
++ restore: git restore --staged file.name (to unstage)
 + commit: git commit -m "commit message"
