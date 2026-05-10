@@ -1,4 +1,4 @@
 # Git-GitHub
 This is my first repo
-\n
+<br>
 Author - Harshith N
