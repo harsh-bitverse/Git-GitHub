@@ -1,4 +1,1 @@
-# Git-GitHub
-This is my first repo
-<br>
-Author - Harshith N (IIT Delhi)
+This is about the notes i made while watching and implementing the lecture on Git and GitHub.
