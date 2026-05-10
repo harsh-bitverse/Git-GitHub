@@ -1,2 +1,4 @@
 # Git-GitHub
-this is my first repo
+This is my first repo
+\n
+Author - Harshith N
