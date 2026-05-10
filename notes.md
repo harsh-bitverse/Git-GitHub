@@ -15,3 +15,4 @@ Website that allows to make changes using git
 + add: git add file.name (to stage)
 + restore: git restore --staged file.name (to unstage)
 + commit: git commit -m "commit message"
++ push: git push origin main
